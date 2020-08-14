@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+}
+.list_link {
+  display: flex;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 25px;
+}
+.list_link:not(:last-child) {
+  margin-right: 20px;
+}
+
+.list_activeLink {
+  display: flex;
+  color: #000000;
+  text-decoration: underline;
+}

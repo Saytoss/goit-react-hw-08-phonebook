@@ -1,0 +1,10 @@
+.header {
+  min-height: 100px;
+  width: 100%;
+  padding: 0 20px;
+  background-color: #e9822de5;
+  margin-bottom: 6px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}

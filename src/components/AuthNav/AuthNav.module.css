@@ -1,0 +1,21 @@
+.auth_nav {
+  display: flex;
+  margin-left: auto;
+}
+.list_link {
+  display: flex;
+  margin-left: auto;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.list_link:not(:last-child) {
+  margin-right: 20px;
+}
+
+.list_activeLink {
+  color: #000000;
+  text-decoration: underline;
+}

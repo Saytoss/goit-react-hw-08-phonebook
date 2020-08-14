@@ -1,0 +1,14 @@
+.userMenu_container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.userMenu_img {
+  width: 80px;
+  height: 80px;
+  border-radius: 30%;
+  margin-right: 14px;
+}
+.userMenu_text {
+  margin-right: 14px;
+}

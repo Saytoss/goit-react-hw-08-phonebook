@@ -1,0 +1,8 @@
+.loginForm {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 180px;
+  justify-content: space-between;
+}

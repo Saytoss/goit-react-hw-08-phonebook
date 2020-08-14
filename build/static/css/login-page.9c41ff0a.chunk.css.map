@@ -1,0 +1,1 @@
+{"version":3,"sources":["Login.module.css"],"names":[],"mappings":"AAAA,wBACE,aAAc,CACd,YAAa,CACb,qBAAsB,CACtB,WAAY,CACZ,YAAa,CACb,6BACF","file":"login-page.9c41ff0a.chunk.css","sourcesContent":[".loginForm {\r\n  margin: 0 auto;\r\n  display: flex;\r\n  flex-direction: column;\r\n  width: 500px;\r\n  height: 180px;\r\n  justify-content: space-between;\r\n}\r\n"]}
